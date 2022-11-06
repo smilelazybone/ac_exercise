@@ -15,7 +15,7 @@ Type name and category of restaurants in search bar
 ### Installation and execution
 1. Open terminal and clone this project.
 ```
-git clone https://github.com/smilelazybone/ac_exercise/tree/main/restaurant_list
+git clone https://github.com/smilelazybone/ac_exercise/tree/main/restaurant_list.git
 ```
 2. Entry the folder of this project in terminal.
 ```
